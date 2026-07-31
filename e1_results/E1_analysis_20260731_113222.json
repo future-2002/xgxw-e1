@@ -1,0 +1,1147 @@
+{
+  "generated_at": "2026-07-31T11:32:22.119695",
+  "conditions": {
+    "ablation_no_ca": {
+      "n": 50,
+      "empathy": {
+        "mean": 5.24,
+        "std": 0.87,
+        "ci_lower": 5.0,
+        "ci_upper": 5.48
+      },
+      "identification": {
+        "mean": 3.42,
+        "std": 1.09,
+        "ci_lower": 3.12,
+        "ci_upper": 3.72
+      },
+      "reflection": {
+        "mean": 3.96,
+        "std": 1.34,
+        "ci_lower": 3.59,
+        "ci_upper": 4.33
+      },
+      "strategy": {
+        "mean": 2.68,
+        "std": 1.06,
+        "ci_lower": 2.39,
+        "ci_upper": 2.97
+      },
+      "encouragement": {
+        "mean": 3.52,
+        "std": 0.95,
+        "ci_lower": 3.26,
+        "ci_upper": 3.78
+      },
+      "relevance": {
+        "mean": 5.1,
+        "std": 1.13,
+        "ci_lower": 4.79,
+        "ci_upper": 5.41
+      },
+      "total": {
+        "mean": 23.92,
+        "std": 5.22,
+        "ci_lower": 22.47,
+        "ci_upper": 25.37
+      },
+      "diagnostic_claim_rate": 0.0,
+      "harmful_advice_rate": 0.0,
+      "judgmental_rate": 0.0,
+      "avg_latency": 72.6,
+      "avg_resp_len": 132.0,
+      "by_topic": {
+        "emotion": 26.0,
+        "family": 23.62,
+        "growth": 23.11,
+        "love": 25.71,
+        "other": 23.4,
+        "relationship": 23.0
+      }
+    },
+    "ablation_no_convergence": {
+      "n": 10,
+      "empathy": {
+        "mean": 4.5,
+        "std": 1.58,
+        "ci_lower": 3.21,
+        "ci_upper": 5.79
+      },
+      "identification": {
+        "mean": 2.4,
+        "std": 2.07,
+        "ci_lower": 0.72,
+        "ci_upper": 4.08
+      },
+      "reflection": {
+        "mean": 2.5,
+        "std": 2.07,
+        "ci_lower": 0.82,
+        "ci_upper": 4.18
+      },
+      "strategy": {
+        "mean": 2.2,
+        "std": 1.14,
+        "ci_lower": 1.28,
+        "ci_upper": 3.12
+      },
+      "encouragement": {
+        "mean": 2.8,
+        "std": 1.32,
+        "ci_lower": 1.73,
+        "ci_upper": 3.87
+      },
+      "relevance": {
+        "mean": 3.9,
+        "std": 1.97,
+        "ci_lower": 2.3,
+        "ci_upper": 5.5
+      },
+      "total": {
+        "mean": 18.3,
+        "std": 9.19,
+        "ci_lower": 10.81,
+        "ci_upper": 25.79
+      },
+      "diagnostic_claim_rate": 0.0,
+      "harmful_advice_rate": 0.0,
+      "judgmental_rate": 0.0,
+      "avg_latency": 226.3,
+      "avg_resp_len": 118.0,
+      "by_topic": {
+        "emotion": 22.0,
+        "family": 25.5,
+        "growth": 12.25,
+        "love": 30.0,
+        "other": 15.5
+      }
+    },
+    "ablation_no_skg": {
+      "n": 50,
+      "empathy": {
+        "mean": 5.22,
+        "std": 1.0,
+        "ci_lower": 4.94,
+        "ci_upper": 5.5
+      },
+      "identification": {
+        "mean": 3.3,
+        "std": 1.22,
+        "ci_lower": 2.96,
+        "ci_upper": 3.64
+      },
+      "reflection": {
+        "mean": 3.42,
+        "std": 1.69,
+        "ci_lower": 2.95,
+        "ci_upper": 3.89
+      },
+      "strategy": {
+        "mean": 2.76,
+        "std": 1.13,
+        "ci_lower": 2.45,
+        "ci_upper": 3.07
+      },
+      "encouragement": {
+        "mean": 3.66,
+        "std": 1.15,
+        "ci_lower": 3.34,
+        "ci_upper": 3.98
+      },
+      "relevance": {
+        "mean": 5.06,
+        "std": 1.3,
+        "ci_lower": 4.7,
+        "ci_upper": 5.42
+      },
+      "total": {
+        "mean": 23.42,
+        "std": 6.19,
+        "ci_lower": 21.7,
+        "ci_upper": 25.14
+      },
+      "diagnostic_claim_rate": 0.0,
+      "harmful_advice_rate": 0.0,
+      "judgmental_rate": 0.0,
+      "avg_latency": 76.9,
+      "avg_resp_len": 158.0,
+      "by_topic": {
+        "emotion": 20.5,
+        "family": 25.62,
+        "growth": 22.5,
+        "love": 27.14,
+        "other": 20.0,
+        "relationship": 24.67
+      }
+    },
+    "cbt_prompt": {
+      "n": 50,
+      "empathy": {
+        "mean": 6.02,
+        "std": 0.14,
+        "ci_lower": 5.98,
+        "ci_upper": 6.06
+      },
+      "identification": {
+        "mean": 5.76,
+        "std": 0.43,
+        "ci_lower": 5.64,
+        "ci_upper": 5.88
+      },
+      "reflection": {
+        "mean": 5.68,
+        "std": 0.47,
+        "ci_lower": 5.55,
+        "ci_upper": 5.81
+      },
+      "strategy": {
+        "mean": 6.02,
+        "std": 0.25,
+        "ci_lower": 5.95,
+        "ci_upper": 6.09
+      },
+      "encouragement": {
+        "mean": 6.02,
+        "std": 0.14,
+        "ci_lower": 5.98,
+        "ci_upper": 6.06
+      },
+      "relevance": {
+        "mean": 6.06,
+        "std": 0.24,
+        "ci_lower": 5.99,
+        "ci_upper": 6.13
+      },
+      "total": {
+        "mean": 35.56,
+        "std": 0.97,
+        "ci_lower": 35.29,
+        "ci_upper": 35.83
+      },
+      "diagnostic_claim_rate": 0.0,
+      "harmful_advice_rate": 0.0,
+      "judgmental_rate": 0.0,
+      "avg_latency": 44.7,
+      "avg_resp_len": 1463.0,
+      "by_topic": {
+        "emotion": 35.67,
+        "family": 36.0,
+        "growth": 35.33,
+        "love": 35.71,
+        "other": 35.2,
+        "relationship": 35.67
+      }
+    },
+    "gvc_full": {
+      "n": 50,
+      "empathy": {
+        "mean": 5.34,
+        "std": 0.94,
+        "ci_lower": 5.08,
+        "ci_upper": 5.6
+      },
+      "identification": {
+        "mean": 3.3,
+        "std": 1.11,
+        "ci_lower": 2.99,
+        "ci_upper": 3.61
+      },
+      "reflection": {
+        "mean": 3.76,
+        "std": 1.51,
+        "ci_lower": 3.34,
+        "ci_upper": 4.18
+      },
+      "strategy": {
+        "mean": 2.36,
+        "std": 1.05,
+        "ci_lower": 2.07,
+        "ci_upper": 2.65
+      },
+      "encouragement": {
+        "mean": 3.58,
+        "std": 0.99,
+        "ci_lower": 3.31,
+        "ci_upper": 3.85
+      },
+      "relevance": {
+        "mean": 5.08,
+        "std": 1.12,
+        "ci_lower": 4.77,
+        "ci_upper": 5.39
+      },
+      "total": {
+        "mean": 23.42,
+        "std": 5.41,
+        "ci_lower": 21.92,
+        "ci_upper": 24.92
+      },
+      "diagnostic_claim_rate": 0.0,
+      "harmful_advice_rate": 0.02,
+      "judgmental_rate": 0.0,
+      "avg_latency": 188.7,
+      "avg_resp_len": 165.0,
+      "by_topic": {
+        "emotion": 24.5,
+        "family": 24.0,
+        "growth": 22.94,
+        "love": 25.14,
+        "other": 23.0,
+        "relationship": 21.33
+      }
+    },
+    "gvc_v2": {
+      "n": 50,
+      "empathy": {
+        "mean": 5.34,
+        "std": 1.06,
+        "ci_lower": 5.05,
+        "ci_upper": 5.63
+      },
+      "identification": {
+        "mean": 3.74,
+        "std": 1.43,
+        "ci_lower": 3.34,
+        "ci_upper": 4.14
+      },
+      "reflection": {
+        "mean": 4.16,
+        "std": 1.57,
+        "ci_lower": 3.72,
+        "ci_upper": 4.6
+      },
+      "strategy": {
+        "mean": 3.16,
+        "std": 1.69,
+        "ci_lower": 2.69,
+        "ci_upper": 3.63
+      },
+      "encouragement": {
+        "mean": 3.36,
+        "std": 1.27,
+        "ci_lower": 3.01,
+        "ci_upper": 3.71
+      },
+      "relevance": {
+        "mean": 4.96,
+        "std": 1.38,
+        "ci_lower": 4.58,
+        "ci_upper": 5.34
+      },
+      "total": {
+        "mean": 24.72,
+        "std": 7.0,
+        "ci_lower": 22.78,
+        "ci_upper": 26.66
+      },
+      "diagnostic_claim_rate": 0.0,
+      "harmful_advice_rate": 0.0,
+      "judgmental_rate": 0.0,
+      "avg_latency": 170.8,
+      "avg_resp_len": 206.0,
+      "by_topic": {
+        "emotion": 29.67,
+        "family": 25.25,
+        "growth": 22.5,
+        "love": 27.57,
+        "other": 19.8,
+        "relationship": 26.5
+      }
+    },
+    "human": {
+      "n": 50,
+      "empathy": {
+        "mean": 2.9,
+        "std": 1.11,
+        "ci_lower": 2.59,
+        "ci_upper": 3.21
+      },
+      "identification": {
+        "mean": 2.3,
+        "std": 1.04,
+        "ci_lower": 2.01,
+        "ci_upper": 2.59
+      },
+      "reflection": {
+        "mean": 1.42,
+        "std": 1.25,
+        "ci_lower": 1.07,
+        "ci_upper": 1.77
+      },
+      "strategy": {
+        "mean": 2.68,
+        "std": 1.06,
+        "ci_lower": 2.39,
+        "ci_upper": 2.97
+      },
+      "encouragement": {
+        "mean": 2.74,
+        "std": 1.12,
+        "ci_lower": 2.43,
+        "ci_upper": 3.05
+      },
+      "relevance": {
+        "mean": 3.96,
+        "std": 1.32,
+        "ci_lower": 3.59,
+        "ci_upper": 4.33
+      },
+      "total": {
+        "mean": 16.0,
+        "std": 5.58,
+        "ci_lower": 14.45,
+        "ci_upper": 17.55
+      },
+      "diagnostic_claim_rate": 0.04,
+      "harmful_advice_rate": 0.08,
+      "judgmental_rate": 0.2,
+      "avg_latency": 0.0,
+      "avg_resp_len": 573.0,
+      "by_topic": {
+        "emotion": 12.83,
+        "family": 15.38,
+        "growth": 16.83,
+        "love": 19.29,
+        "other": 16.4,
+        "relationship": 13.33
+      }
+    },
+    "single_llm": {
+      "n": 50,
+      "empathy": {
+        "mean": 5.98,
+        "std": 0.32,
+        "ci_lower": 5.89,
+        "ci_upper": 6.07
+      },
+      "identification": {
+        "mean": 5.36,
+        "std": 0.69,
+        "ci_lower": 5.17,
+        "ci_upper": 5.55
+      },
+      "reflection": {
+        "mean": 3.98,
+        "std": 0.68,
+        "ci_lower": 3.79,
+        "ci_upper": 4.17
+      },
+      "strategy": {
+        "mean": 5.84,
+        "std": 0.47,
+        "ci_lower": 5.71,
+        "ci_upper": 5.97
+      },
+      "encouragement": {
+        "mean": 5.86,
+        "std": 0.35,
+        "ci_lower": 5.76,
+        "ci_upper": 5.96
+      },
+      "relevance": {
+        "mean": 6.18,
+        "std": 0.39,
+        "ci_lower": 6.07,
+        "ci_upper": 6.29
+      },
+      "total": {
+        "mean": 33.2,
+        "std": 1.81,
+        "ci_lower": 32.7,
+        "ci_upper": 33.7
+      },
+      "diagnostic_claim_rate": 0.0,
+      "harmful_advice_rate": 0.02,
+      "judgmental_rate": 0.0,
+      "avg_latency": 50.3,
+      "avg_resp_len": 1737.0,
+      "by_topic": {
+        "emotion": 33.5,
+        "family": 33.12,
+        "growth": 33.06,
+        "love": 33.71,
+        "other": 34.4,
+        "relationship": 31.83
+      }
+    }
+  },
+  "comparisons": {
+    "ablation_no_ca": {
+      "n_paired": 50,
+      "dims": {
+        "total": {
+          "gvc_mean": 23.42,
+          "other_mean": 23.92,
+          "diff": -0.5,
+          "t": -0.47,
+          "p_raw": 0.63806,
+          "cohens_d": -0.094,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "empathy": {
+          "gvc_mean": 5.34,
+          "other_mean": 5.24,
+          "diff": 0.1,
+          "t": 0.552,
+          "p_raw": 0.58079,
+          "cohens_d": 0.11,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "identification": {
+          "gvc_mean": 3.3,
+          "other_mean": 3.42,
+          "diff": -0.12,
+          "t": -0.545,
+          "p_raw": 0.5856,
+          "cohens_d": -0.109,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "reflection": {
+          "gvc_mean": 3.76,
+          "other_mean": 3.96,
+          "diff": -0.2,
+          "t": -0.702,
+          "p_raw": 0.48287,
+          "cohens_d": -0.14,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "strategy": {
+          "gvc_mean": 2.36,
+          "other_mean": 2.68,
+          "diff": -0.32,
+          "t": -1.521,
+          "p_raw": 0.12818,
+          "cohens_d": -0.304,
+          "p_holm": 0.89727,
+          "significant": false
+        },
+        "encouragement": {
+          "gvc_mean": 3.58,
+          "other_mean": 3.52,
+          "diff": 0.06,
+          "t": 0.308,
+          "p_raw": 0.75768,
+          "cohens_d": 0.062,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "relevance": {
+          "gvc_mean": 5.08,
+          "other_mean": 5.1,
+          "diff": -0.02,
+          "t": -0.089,
+          "p_raw": 0.92921,
+          "cohens_d": -0.018,
+          "p_holm": 1.0,
+          "significant": false
+        }
+      }
+    },
+    "ablation_no_convergence": {
+      "n_paired": 10,
+      "dims": {
+        "total": {
+          "gvc_mean": 21.3,
+          "other_mean": 18.3,
+          "diff": 3.0,
+          "t": 0.693,
+          "p_raw": 0.47937,
+          "cohens_d": 0.31,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "empathy": {
+          "gvc_mean": 4.9,
+          "other_mean": 4.5,
+          "diff": 0.4,
+          "t": 0.529,
+          "p_raw": 0.58989,
+          "cohens_d": 0.237,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "identification": {
+          "gvc_mean": 3.0,
+          "other_mean": 2.4,
+          "diff": 0.6,
+          "t": 0.669,
+          "p_raw": 0.49479,
+          "cohens_d": 0.299,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "reflection": {
+          "gvc_mean": 3.0,
+          "other_mean": 2.5,
+          "diff": 0.5,
+          "t": 0.504,
+          "p_raw": 0.60776,
+          "cohens_d": 0.225,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "strategy": {
+          "gvc_mean": 2.5,
+          "other_mean": 2.2,
+          "diff": 0.3,
+          "t": 0.557,
+          "p_raw": 0.57037,
+          "cohens_d": 0.249,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "encouragement": {
+          "gvc_mean": 3.4,
+          "other_mean": 2.8,
+          "diff": 0.6,
+          "t": 1.006,
+          "p_raw": 0.30059,
+          "cohens_d": 0.45,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "relevance": {
+          "gvc_mean": 4.5,
+          "other_mean": 3.9,
+          "diff": 0.6,
+          "t": 0.639,
+          "p_raw": 0.5146,
+          "cohens_d": 0.286,
+          "p_holm": 1.0,
+          "significant": false
+        }
+      }
+    },
+    "ablation_no_skg": {
+      "n_paired": 50,
+      "dims": {
+        "total": {
+          "gvc_mean": 23.42,
+          "other_mean": 23.42,
+          "diff": 0.0,
+          "t": 0.0,
+          "p_raw": 1.0,
+          "cohens_d": 0.0,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "empathy": {
+          "gvc_mean": 5.34,
+          "other_mean": 5.22,
+          "diff": 0.12,
+          "t": 0.62,
+          "p_raw": 0.5353,
+          "cohens_d": 0.124,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "identification": {
+          "gvc_mean": 3.3,
+          "other_mean": 3.3,
+          "diff": 0.0,
+          "t": 0.0,
+          "p_raw": 1.0,
+          "cohens_d": 0.0,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "reflection": {
+          "gvc_mean": 3.76,
+          "other_mean": 3.42,
+          "diff": 0.34,
+          "t": 1.062,
+          "p_raw": 0.28841,
+          "cohens_d": 0.212,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "strategy": {
+          "gvc_mean": 2.36,
+          "other_mean": 2.76,
+          "diff": -0.4,
+          "t": -1.833,
+          "p_raw": 0.06677,
+          "cohens_d": -0.367,
+          "p_holm": 0.46737,
+          "significant": false
+        },
+        "encouragement": {
+          "gvc_mean": 3.58,
+          "other_mean": 3.66,
+          "diff": -0.08,
+          "t": -0.372,
+          "p_raw": 0.71,
+          "cohens_d": -0.074,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "relevance": {
+          "gvc_mean": 5.08,
+          "other_mean": 5.06,
+          "diff": 0.02,
+          "t": 0.082,
+          "p_raw": 0.93437,
+          "cohens_d": 0.016,
+          "p_holm": 1.0,
+          "significant": false
+        }
+      }
+    },
+    "cbt_prompt": {
+      "n_paired": 50,
+      "dims": {
+        "total": {
+          "gvc_mean": 23.42,
+          "other_mean": 35.56,
+          "diff": -12.14,
+          "t": -15.628,
+          "p_raw": 0.0,
+          "cohens_d": -3.126,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "empathy": {
+          "gvc_mean": 5.34,
+          "other_mean": 6.02,
+          "diff": -0.68,
+          "t": -5.063,
+          "p_raw": 0.0,
+          "cohens_d": -1.013,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "identification": {
+          "gvc_mean": 3.3,
+          "other_mean": 5.76,
+          "diff": -2.46,
+          "t": -14.593,
+          "p_raw": 0.0,
+          "cohens_d": -2.919,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "reflection": {
+          "gvc_mean": 3.76,
+          "other_mean": 5.68,
+          "diff": -1.92,
+          "t": -8.604,
+          "p_raw": 0.0,
+          "cohens_d": -1.721,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "strategy": {
+          "gvc_mean": 2.36,
+          "other_mean": 6.02,
+          "diff": -3.66,
+          "t": -24.101,
+          "p_raw": 0.0,
+          "cohens_d": -4.82,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "encouragement": {
+          "gvc_mean": 3.58,
+          "other_mean": 6.02,
+          "diff": -2.44,
+          "t": -17.225,
+          "p_raw": 0.0,
+          "cohens_d": -3.445,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "relevance": {
+          "gvc_mean": 5.08,
+          "other_mean": 6.06,
+          "diff": -0.98,
+          "t": -6.04,
+          "p_raw": 0.0,
+          "cohens_d": -1.208,
+          "p_holm": 0.0,
+          "significant": true
+        }
+      }
+    },
+    "gvc_v2": {
+      "n_paired": 50,
+      "dims": {
+        "total": {
+          "gvc_mean": 23.42,
+          "other_mean": 24.72,
+          "diff": -1.3,
+          "t": -1.039,
+          "p_raw": 0.29885,
+          "cohens_d": -0.208,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "empathy": {
+          "gvc_mean": 5.34,
+          "other_mean": 5.34,
+          "diff": 0.0,
+          "t": 0.0,
+          "p_raw": 1.0,
+          "cohens_d": 0.0,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "identification": {
+          "gvc_mean": 3.3,
+          "other_mean": 3.74,
+          "diff": -0.44,
+          "t": -1.721,
+          "p_raw": 0.08523,
+          "cohens_d": -0.344,
+          "p_holm": 0.51137,
+          "significant": false
+        },
+        "reflection": {
+          "gvc_mean": 3.76,
+          "other_mean": 4.16,
+          "diff": -0.4,
+          "t": -1.3,
+          "p_raw": 0.19349,
+          "cohens_d": -0.26,
+          "p_holm": 0.96747,
+          "significant": false
+        },
+        "strategy": {
+          "gvc_mean": 2.36,
+          "other_mean": 3.16,
+          "diff": -0.8,
+          "t": -2.841,
+          "p_raw": 0.00449,
+          "cohens_d": -0.568,
+          "p_holm": 0.03146,
+          "significant": true
+        },
+        "encouragement": {
+          "gvc_mean": 3.58,
+          "other_mean": 3.36,
+          "diff": 0.22,
+          "t": 0.964,
+          "p_raw": 0.33523,
+          "cohens_d": 0.193,
+          "p_holm": 1.0,
+          "significant": false
+        },
+        "relevance": {
+          "gvc_mean": 5.08,
+          "other_mean": 4.96,
+          "diff": 0.12,
+          "t": 0.476,
+          "p_raw": 0.63396,
+          "cohens_d": 0.095,
+          "p_holm": 1.0,
+          "significant": false
+        }
+      }
+    },
+    "human": {
+      "n_paired": 50,
+      "dims": {
+        "total": {
+          "gvc_mean": 23.42,
+          "other_mean": 16.0,
+          "diff": 7.42,
+          "t": 6.755,
+          "p_raw": 0.0,
+          "cohens_d": 1.351,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "empathy": {
+          "gvc_mean": 5.34,
+          "other_mean": 2.9,
+          "diff": 2.44,
+          "t": 11.859,
+          "p_raw": 0.0,
+          "cohens_d": 2.372,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "identification": {
+          "gvc_mean": 3.3,
+          "other_mean": 2.3,
+          "diff": 1.0,
+          "t": 4.656,
+          "p_raw": 0.0,
+          "cohens_d": 0.931,
+          "p_holm": 1e-05,
+          "significant": true
+        },
+        "reflection": {
+          "gvc_mean": 3.76,
+          "other_mean": 1.42,
+          "diff": 2.34,
+          "t": 8.463,
+          "p_raw": 0.0,
+          "cohens_d": 1.693,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "strategy": {
+          "gvc_mean": 2.36,
+          "other_mean": 2.68,
+          "diff": -0.32,
+          "t": -1.521,
+          "p_raw": 0.12818,
+          "cohens_d": -0.304,
+          "p_holm": 0.12818,
+          "significant": false
+        },
+        "encouragement": {
+          "gvc_mean": 3.58,
+          "other_mean": 2.74,
+          "diff": 0.84,
+          "t": 3.968,
+          "p_raw": 7e-05,
+          "cohens_d": 0.794,
+          "p_holm": 0.00015,
+          "significant": true
+        },
+        "relevance": {
+          "gvc_mean": 5.08,
+          "other_mean": 3.96,
+          "diff": 1.12,
+          "t": 4.563,
+          "p_raw": 1e-05,
+          "cohens_d": 0.913,
+          "p_holm": 2e-05,
+          "significant": true
+        }
+      }
+    },
+    "single_llm": {
+      "n_paired": 50,
+      "dims": {
+        "total": {
+          "gvc_mean": 23.42,
+          "other_mean": 33.2,
+          "diff": -9.78,
+          "t": -12.132,
+          "p_raw": 0.0,
+          "cohens_d": -2.426,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "empathy": {
+          "gvc_mean": 5.34,
+          "other_mean": 5.98,
+          "diff": -0.64,
+          "t": -4.563,
+          "p_raw": 1e-05,
+          "cohens_d": -0.913,
+          "p_holm": 1e-05,
+          "significant": true
+        },
+        "identification": {
+          "gvc_mean": 3.3,
+          "other_mean": 5.36,
+          "diff": -2.06,
+          "t": -11.124,
+          "p_raw": 0.0,
+          "cohens_d": -2.225,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "reflection": {
+          "gvc_mean": 3.76,
+          "other_mean": 3.98,
+          "diff": -0.22,
+          "t": -0.94,
+          "p_raw": 0.34704,
+          "cohens_d": -0.188,
+          "p_holm": 0.34704,
+          "significant": false
+        },
+        "strategy": {
+          "gvc_mean": 2.36,
+          "other_mean": 5.84,
+          "diff": -3.48,
+          "t": -21.491,
+          "p_raw": 0.0,
+          "cohens_d": -4.298,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "encouragement": {
+          "gvc_mean": 3.58,
+          "other_mean": 5.86,
+          "diff": -2.28,
+          "t": -15.329,
+          "p_raw": 0.0,
+          "cohens_d": -3.066,
+          "p_holm": 0.0,
+          "significant": true
+        },
+        "relevance": {
+          "gvc_mean": 5.08,
+          "other_mean": 6.18,
+          "diff": -1.1,
+          "t": -6.552,
+          "p_raw": 0.0,
+          "cohens_d": -1.31,
+          "p_holm": 0.0,
+          "significant": true
+        }
+      }
+    }
+  },
+  "conv_conditions": {
+    "ablation_no_ca": {
+      "n": 50,
+      "total": {
+        "mean": 36.64,
+        "std": 6.19,
+        "ci_lower": 34.92,
+        "ci_upper": 38.36
+      },
+      "validation": 6.0,
+      "load": 6.68,
+      "focus": 5.76,
+      "invitation": 5.88,
+      "alliance": 6.14,
+      "naturalness": 6.18
+    },
+    "ablation_no_convergence": {
+      "n": 10,
+      "total": {
+        "mean": 31.1,
+        "std": 10.65,
+        "ci_lower": 22.42,
+        "ci_upper": 39.78
+      },
+      "validation": 5.1,
+      "load": 6.2,
+      "focus": 4.6,
+      "invitation": 4.6,
+      "alliance": 5.5,
+      "naturalness": 5.1
+    },
+    "ablation_no_skg": {
+      "n": 50,
+      "total": {
+        "mean": 36.82,
+        "std": 6.05,
+        "ci_lower": 35.14,
+        "ci_upper": 38.5
+      },
+      "validation": 6.1,
+      "load": 6.7,
+      "focus": 5.76,
+      "invitation": 5.72,
+      "alliance": 6.22,
+      "naturalness": 6.32
+    },
+    "cbt_prompt": {
+      "n": 50,
+      "total": {
+        "mean": 18.56,
+        "std": 2.28,
+        "ci_lower": 17.93,
+        "ci_upper": 19.19
+      },
+      "validation": 5.96,
+      "load": 1.22,
+      "focus": 2.12,
+      "invitation": 3.58,
+      "alliance": 3.8,
+      "naturalness": 1.88
+    },
+    "gvc_full": {
+      "n": 50,
+      "total": {
+        "mean": 36.22,
+        "std": 5.94,
+        "ci_lower": 34.57,
+        "ci_upper": 37.87
+      },
+      "validation": 6.04,
+      "load": 6.6,
+      "focus": 5.62,
+      "invitation": 5.86,
+      "alliance": 6.12,
+      "naturalness": 5.98
+    },
+    "gvc_v2": {
+      "n": 50,
+      "total": {
+        "mean": 34.06,
+        "std": 6.49,
+        "ci_lower": 32.26,
+        "ci_upper": 35.86
+      },
+      "validation": 5.84,
+      "load": 5.9,
+      "focus": 5.24,
+      "invitation": 5.78,
+      "alliance": 5.84,
+      "naturalness": 5.46
+    },
+    "human": {
+      "n": 50,
+      "total": {
+        "mean": 10.66,
+        "std": 5.13,
+        "ci_lower": 9.24,
+        "ci_upper": 12.08
+      },
+      "validation": 2.14,
+      "load": 1.52,
+      "focus": 1.72,
+      "invitation": 1.22,
+      "alliance": 2.16,
+      "naturalness": 1.9
+    },
+    "single_llm": {
+      "n": 50,
+      "total": {
+        "mean": 16.42,
+        "std": 2.82,
+        "ci_lower": 15.64,
+        "ci_upper": 17.2
+      },
+      "validation": 5.0,
+      "load": 1.1,
+      "focus": 1.96,
+      "invitation": 3.14,
+      "alliance": 3.48,
+      "naturalness": 1.74
+    }
+  },
+  "length_bias": {
+    "autocbt": {
+      "overall_r": 0.601,
+      "within": {
+        "ablation_no_ca": 0.579,
+        "ablation_no_convergence": 0.863,
+        "ablation_no_skg": 0.244,
+        "cbt_prompt": 0.224,
+        "gvc_full": 0.268,
+        "gvc_v2": 0.516,
+        "human": 0.322,
+        "single_llm": 0.339
+      },
+      "n": 360
+    },
+    "conv": {
+      "overall_r": -0.65,
+      "within": {
+        "ablation_no_ca": 0.321,
+        "ablation_no_convergence": 0.66,
+        "ablation_no_skg": 0.109,
+        "cbt_prompt": 0.023,
+        "gvc_full": 0.115,
+        "gvc_v2": 0.106,
+        "human": -0.402,
+        "single_llm": -0.353
+      },
+      "n": 360
+    }
+  }
+}
