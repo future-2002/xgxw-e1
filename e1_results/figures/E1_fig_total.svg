@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="468" viewBox="0 0 720 468" font-family="PingFang SC,Microsoft YaHei,sans-serif">
+<rect width="720" height="468" fill="white"/>
+<text x="360.0" y="26" font-size="16" font-weight="bold" text-anchor="middle">E1 各条件咨询质量总分（AutoCBT 六维合计, 0–42, 95% CI）</text>
+<line x1="130.0" y1="46" x2="130.0" y2="428" stroke="#eee"/>
+<text x="130.0" y="444" font-size="10" fill="#888" text-anchor="middle">0</text>
+<line x1="221.7" y1="46" x2="221.7" y2="428" stroke="#eee"/>
+<text x="221.7" y="444" font-size="10" fill="#888" text-anchor="middle">7</text>
+<line x1="313.3" y1="46" x2="313.3" y2="428" stroke="#eee"/>
+<text x="313.3" y="444" font-size="10" fill="#888" text-anchor="middle">14</text>
+<line x1="405.0" y1="46" x2="405.0" y2="428" stroke="#eee"/>
+<text x="405.0" y="444" font-size="10" fill="#888" text-anchor="middle">21</text>
+<line x1="496.7" y1="46" x2="496.7" y2="428" stroke="#eee"/>
+<text x="496.7" y="444" font-size="10" fill="#888" text-anchor="middle">28</text>
+<line x1="588.3" y1="46" x2="588.3" y2="428" stroke="#eee"/>
+<text x="588.3" y="444" font-size="10" fill="#888" text-anchor="middle">35</text>
+<line x1="680.0" y1="46" x2="680.0" y2="428" stroke="#eee"/>
+<text x="680.0" y="444" font-size="10" fill="#888" text-anchor="middle">42</text>
+<text x="122" y="78" font-size="12" text-anchor="end">三极议会</text>
+<rect x="130.0" y="60" width="306.7" height="26" fill="#2563eb" rx="3"/>
+<line x1="417.0" y1="73" x2="456.3" y2="73" stroke="#333" stroke-width="1.5"/>
+<line x1="417.0" y1="69" x2="417.0" y2="77" stroke="#333"/>
+<line x1="456.3" y1="69" x2="456.3" y2="77" stroke="#333"/>
+<text x="442.7" y="78" font-size="11" fill="#111">23.42</text>
+<text x="122" y="124" font-size="12" text-anchor="end">议会-整合式</text>
+<rect x="130.0" y="106" width="323.7" height="26" fill="#1d4ed8" rx="3"/>
+<line x1="428.3" y1="119" x2="479.1" y2="119" stroke="#333" stroke-width="1.5"/>
+<line x1="428.3" y1="115" x2="428.3" y2="123" stroke="#333"/>
+<line x1="479.1" y1="115" x2="479.1" y2="123" stroke="#333"/>
+<text x="459.7" y="124" font-size="11" fill="#111">24.72</text>
+<text x="122" y="170" font-size="12" text-anchor="end">去CA</text>
+<rect x="130.0" y="152" width="313.2" height="26" fill="#60a5fa" rx="3"/>
+<line x1="424.2" y1="165" x2="462.2" y2="165" stroke="#333" stroke-width="1.5"/>
+<line x1="424.2" y1="161" x2="424.2" y2="169" stroke="#333"/>
+<line x1="462.2" y1="161" x2="462.2" y2="169" stroke="#333"/>
+<text x="449.2" y="170" font-size="11" fill="#111">23.92</text>
+<text x="122" y="216" font-size="12" text-anchor="end">去SKG</text>
+<rect x="130.0" y="198" width="306.7" height="26" fill="#93c5fd" rx="3"/>
+<line x1="414.2" y1="211" x2="459.2" y2="211" stroke="#333" stroke-width="1.5"/>
+<line x1="414.2" y1="207" x2="414.2" y2="215" stroke="#333"/>
+<line x1="459.2" y1="207" x2="459.2" y2="215" stroke="#333"/>
+<text x="442.7" y="216" font-size="11" fill="#111">23.42</text>
+<text x="122" y="262" font-size="12" text-anchor="end">去收敛</text>
+<rect x="130.0" y="244" width="239.6" height="26" fill="#bfdbfe" rx="3"/>
+<line x1="271.6" y1="257" x2="467.7" y2="257" stroke="#333" stroke-width="1.5"/>
+<line x1="271.6" y1="253" x2="271.6" y2="261" stroke="#333"/>
+<line x1="467.7" y1="253" x2="467.7" y2="261" stroke="#333"/>
+<text x="375.6" y="262" font-size="11" fill="#111">18.3</text>
+<text x="122" y="308" font-size="12" text-anchor="end">CBT提示词</text>
+<rect x="130.0" y="290" width="465.7" height="26" fill="#f59e0b" rx="3"/>
+<line x1="592.1" y1="303" x2="599.2" y2="303" stroke="#333" stroke-width="1.5"/>
+<line x1="592.1" y1="299" x2="592.1" y2="307" stroke="#333"/>
+<line x1="599.2" y1="299" x2="599.2" y2="307" stroke="#333"/>
+<text x="601.7" y="308" font-size="11" fill="#111">35.56</text>
+<text x="122" y="354" font-size="12" text-anchor="end">单模型</text>
+<rect x="130.0" y="336" width="434.8" height="26" fill="#ef4444" rx="3"/>
+<line x1="558.2" y1="349" x2="571.3" y2="349" stroke="#333" stroke-width="1.5"/>
+<line x1="558.2" y1="345" x2="558.2" y2="353" stroke="#333"/>
+<line x1="571.3" y1="345" x2="571.3" y2="353" stroke="#333"/>
+<text x="570.8" y="354" font-size="11" fill="#111">33.2</text>
+<text x="122" y="400" font-size="12" text-anchor="end">在线同伴</text>
+<rect x="130.0" y="382" width="209.5" height="26" fill="#10b981" rx="3"/>
+<line x1="319.2" y1="395" x2="359.8" y2="395" stroke="#333" stroke-width="1.5"/>
+<line x1="319.2" y1="391" x2="319.2" y2="399" stroke="#333"/>
+<line x1="359.8" y1="391" x2="359.8" y2="399" stroke="#333"/>
+<text x="345.5" y="400" font-size="11" fill="#111">16.0</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="340" viewBox="0 0 760 340" font-family="PingFang SC,Microsoft YaHei,sans-serif">
+<rect width="760" height="340" fill="white"/>
+<text x="380.0" y="26" font-size="16" font-weight="bold" text-anchor="middle">E1 六维咨询质量对比（0–7）</text>
+<line x1="50" y1="270.0" x2="740" y2="270.0" stroke="#eee"/>
+<text x="44" y="273.0" font-size="10" fill="#888" text-anchor="end">0</text>
+<line x1="50" y1="238.6" x2="740" y2="238.6" stroke="#eee"/>
+<text x="44" y="241.6" font-size="10" fill="#888" text-anchor="end">1</text>
+<line x1="50" y1="207.1" x2="740" y2="207.1" stroke="#eee"/>
+<text x="44" y="210.1" font-size="10" fill="#888" text-anchor="end">2</text>
+<line x1="50" y1="175.7" x2="740" y2="175.7" stroke="#eee"/>
+<text x="44" y="178.7" font-size="10" fill="#888" text-anchor="end">3</text>
+<line x1="50" y1="144.3" x2="740" y2="144.3" stroke="#eee"/>
+<text x="44" y="147.3" font-size="10" fill="#888" text-anchor="end">4</text>
+<line x1="50" y1="112.9" x2="740" y2="112.9" stroke="#eee"/>
+<text x="44" y="115.9" font-size="10" fill="#888" text-anchor="end">5</text>
+<line x1="50" y1="81.4" x2="740" y2="81.4" stroke="#eee"/>
+<text x="44" y="84.4" font-size="10" fill="#888" text-anchor="end">6</text>
+<line x1="50" y1="50.0" x2="740" y2="50.0" stroke="#eee"/>
+<text x="44" y="53.0" font-size="10" fill="#888" text-anchor="end">7</text>
+<text x="107.5" y="286" font-size="11" text-anchor="middle">共情</text>
+<rect x="61.5" y="102.2" width="20.7" height="167.8" fill="#2563eb"/>
+<rect x="84.5" y="80.8" width="20.7" height="189.2" fill="#f59e0b"/>
+<rect x="107.5" y="82.1" width="20.7" height="187.9" fill="#ef4444"/>
+<rect x="130.5" y="178.9" width="20.7" height="91.1" fill="#10b981"/>
+<text x="222.5" y="286" font-size="11" text-anchor="middle">识别</text>
+<rect x="176.5" y="166.3" width="20.7" height="103.7" fill="#2563eb"/>
+<rect x="199.5" y="89.0" width="20.7" height="181.0" fill="#f59e0b"/>
+<rect x="222.5" y="101.5" width="20.7" height="168.5" fill="#ef4444"/>
+<rect x="245.5" y="197.7" width="20.7" height="72.3" fill="#10b981"/>
+<text x="337.5" y="286" font-size="11" text-anchor="middle">反思</text>
+<rect x="291.5" y="151.8" width="20.7" height="118.2" fill="#2563eb"/>
+<rect x="314.5" y="91.5" width="20.7" height="178.5" fill="#f59e0b"/>
+<rect x="337.5" y="144.9" width="20.7" height="125.1" fill="#ef4444"/>
+<rect x="360.5" y="225.4" width="20.7" height="44.6" fill="#10b981"/>
+<text x="452.5" y="286" font-size="11" text-anchor="middle">策略</text>
+<rect x="406.5" y="195.8" width="20.7" height="74.2" fill="#2563eb"/>
+<rect x="429.5" y="80.8" width="20.7" height="189.2" fill="#f59e0b"/>
+<rect x="452.5" y="86.5" width="20.7" height="183.5" fill="#ef4444"/>
+<rect x="475.5" y="185.8" width="20.7" height="84.2" fill="#10b981"/>
+<text x="567.5" y="286" font-size="11" text-anchor="middle">鼓励</text>
+<rect x="521.5" y="157.5" width="20.7" height="112.5" fill="#2563eb"/>
+<rect x="544.5" y="80.8" width="20.7" height="189.2" fill="#f59e0b"/>
+<rect x="567.5" y="85.8" width="20.7" height="184.2" fill="#ef4444"/>
+<rect x="590.5" y="183.9" width="20.7" height="86.1" fill="#10b981"/>
+<text x="682.5" y="286" font-size="11" text-anchor="middle">相关</text>
+<rect x="636.5" y="110.3" width="20.7" height="159.7" fill="#2563eb"/>
+<rect x="659.5" y="79.5" width="20.7" height="190.5" fill="#f59e0b"/>
+<rect x="682.5" y="75.8" width="20.7" height="194.2" fill="#ef4444"/>
+<rect x="705.5" y="145.5" width="20.7" height="124.5" fill="#10b981"/>
+<rect x="50" y="310" width="12" height="12" fill="#2563eb"/>
+<text x="66" y="320" font-size="11">三极议会</text>
+<rect x="160" y="310" width="12" height="12" fill="#f59e0b"/>
+<text x="176" y="320" font-size="11">CBT提示词</text>
+<rect x="270" y="310" width="12" height="12" fill="#ef4444"/>
+<text x="286" y="320" font-size="11">单模型</text>
+<rect x="380" y="310" width="12" height="12" fill="#10b981"/>
+<text x="396" y="320" font-size="11">在线同伴</text>
+</svg>

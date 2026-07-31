@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="PingFang SC,Microsoft YaHei,sans-serif">
+<rect width="720" height="420" fill="white"/>
+<text x="360.0" y="26" font-size="16" font-weight="bold" text-anchor="middle">E1 各条件安全违规率（越低越好）</text>
+<text x="122" y="72" font-size="12" text-anchor="end">三极议会</text>
+<rect x="130.0" y="56" width="0.0" height="9" fill="#ef4444"/>
+<text x="134.0" y="64" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="67" width="53.0" height="9" fill="#b91c1c"/>
+<text x="187.0" y="75" font-size="8" fill="#333">2%</text>
+<rect x="130.0" y="78" width="0.0" height="9" fill="#f59e0b"/>
+<text x="134.0" y="86" font-size="8" fill="#333">0%</text>
+<text x="122" y="112" font-size="12" text-anchor="end">议会-整合式</text>
+<rect x="130.0" y="96" width="0.0" height="9" fill="#ef4444"/>
+<text x="134.0" y="104" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="107" width="0.0" height="9" fill="#b91c1c"/>
+<text x="134.0" y="115" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="118" width="0.0" height="9" fill="#f59e0b"/>
+<text x="134.0" y="126" font-size="8" fill="#333">0%</text>
+<text x="122" y="152" font-size="12" text-anchor="end">去CA</text>
+<rect x="130.0" y="136" width="0.0" height="9" fill="#ef4444"/>
+<text x="134.0" y="144" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="147" width="0.0" height="9" fill="#b91c1c"/>
+<text x="134.0" y="155" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="158" width="0.0" height="9" fill="#f59e0b"/>
+<text x="134.0" y="166" font-size="8" fill="#333">0%</text>
+<text x="122" y="192" font-size="12" text-anchor="end">去SKG</text>
+<rect x="130.0" y="176" width="0.0" height="9" fill="#ef4444"/>
+<text x="134.0" y="184" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="187" width="0.0" height="9" fill="#b91c1c"/>
+<text x="134.0" y="195" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="198" width="0.0" height="9" fill="#f59e0b"/>
+<text x="134.0" y="206" font-size="8" fill="#333">0%</text>
+<text x="122" y="232" font-size="12" text-anchor="end">去收敛</text>
+<rect x="130.0" y="216" width="0.0" height="9" fill="#ef4444"/>
+<text x="134.0" y="224" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="227" width="0.0" height="9" fill="#b91c1c"/>
+<text x="134.0" y="235" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="238" width="0.0" height="9" fill="#f59e0b"/>
+<text x="134.0" y="246" font-size="8" fill="#333">0%</text>
+<text x="122" y="272" font-size="12" text-anchor="end">CBT提示词</text>
+<rect x="130.0" y="256" width="0.0" height="9" fill="#ef4444"/>
+<text x="134.0" y="264" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="267" width="0.0" height="9" fill="#b91c1c"/>
+<text x="134.0" y="275" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="278" width="0.0" height="9" fill="#f59e0b"/>
+<text x="134.0" y="286" font-size="8" fill="#333">0%</text>
+<text x="122" y="312" font-size="12" text-anchor="end">单模型</text>
+<rect x="130.0" y="296" width="0.0" height="9" fill="#ef4444"/>
+<text x="134.0" y="304" font-size="8" fill="#333">0%</text>
+<rect x="130.0" y="307" width="53.0" height="9" fill="#b91c1c"/>
+<text x="187.0" y="315" font-size="8" fill="#333">2%</text>
+<rect x="130.0" y="318" width="0.0" height="9" fill="#f59e0b"/>
+<text x="134.0" y="326" font-size="8" fill="#333">0%</text>
+<text x="122" y="352" font-size="12" text-anchor="end">在线同伴</text>
+<rect x="130.0" y="336" width="106.0" height="9" fill="#ef4444"/>
+<text x="240.0" y="344" font-size="8" fill="#333">4%</text>
+<rect x="130.0" y="347" width="212.0" height="9" fill="#b91c1c"/>
+<text x="346.0" y="355" font-size="8" fill="#333">8%</text>
+<rect x="130.0" y="358" width="530.0" height="9" fill="#f59e0b"/>
+<text x="664.0" y="366" font-size="8" fill="#333">20%</text>
+<rect x="130" y="392" width="10" height="10" fill="#ef4444"/>
+<text x="144" y="401" font-size="10">诊断断言</text>
+<rect x="270" y="392" width="10" height="10" fill="#b91c1c"/>
+<text x="284" y="401" font-size="10">有害建议</text>
+<rect x="410" y="392" width="10" height="10" fill="#f59e0b"/>
+<text x="424" y="401" font-size="10">评判指责</text>
+</svg>
